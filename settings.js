@@ -20,9 +20,9 @@ global.autoread = false // auto read pesan / message
 // Other
 global.botname = "Chika-Bot" //namabot kalian
 global.ownername= "ᴹᴿ᭄ Chika-Bot ×፝֟͜×" //nama kalian
-global.myweb ="https://api.zeeoneofc.xyz" //bebas asal jan hapus
-global.wattsap = "https://chat.whatsapp.com/DllEvzkNKQ4714qdwmT9Ds" //bebas asal jan hapus
-global.tiktok = "https://vt.tiktok.com/ZSdm9GEpm/" //bebas
+global.myweb ="https://chat.whatsapp.com/DllEvzkNKQ4714qdwmT9Ds" //bebas asal jan hapus
+global.youtube = "https://youtube.com/channel/UCXecmWlOoL8g-yfs1I9kZ0w" //bebas asal jan hapus
+global.github = "https://zeeone-ofc.github.io/" //bebas
 global.email = "zeeoneofc@gmail.com" //bebas
 global.region = "Indonesia" //bebas
 global.ownernomer = "62895330437426" // nomor wa kalian
